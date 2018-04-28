@@ -1,0 +1,15 @@
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\HX.Toys.EFSource.dll.config
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\HX.Toys.EFSource.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\HX.Toys.EFSource.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\EntityFramework.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\HX.Toys.Model.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\HX.Toys.Model.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\EntityFramework.xml
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.Migrations.DBInit.resources
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.csproj.GenerateResource.Cache
+D:\practice\C#\Apr\HX.Toys\HX.Toys.EFSource\obj\Debug\HX.Toys.EFSource.Migrations.addbook.resources

@@ -1,0 +1,4 @@
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Infrastructure\bin\Debug\HX.Toys.Infrastructure.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Infrastructure\bin\Debug\HX.Toys.Infrastructure.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Infrastructure\obj\Debug\HX.Toys.Infrastructure.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Infrastructure\obj\Debug\HX.Toys.Infrastructure.pdb

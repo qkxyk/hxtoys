@@ -1,0 +1,10 @@
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\HX.Toys.Model.dll.config
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\HX.Toys.Model.dll
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\HX.Toys.Model.pdb
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\EntityFramework.dll
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\EntityFramework.xml
+D:\practice\C#\Apr\HX.Toys\Domains\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\C#\Apr\HX.Toys\Domains\obj\Debug\HX.Toys.Model.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\HX.Toys\Domains\obj\Debug\HX.Toys.Model.dll
+D:\practice\C#\Apr\HX.Toys\Domains\obj\Debug\HX.Toys.Model.pdb

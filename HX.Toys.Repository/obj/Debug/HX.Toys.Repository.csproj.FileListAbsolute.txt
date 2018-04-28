@@ -1,0 +1,14 @@
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.Repository.dll.config
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.Repository.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.Repository.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\EntityFramework.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.EFSource.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.Model.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.Model.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\HX.Toys.EFSource.pdb
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\EntityFramework.xml
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\obj\Debug\HX.Toys.Repository.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\obj\Debug\HX.Toys.Repository.dll
+D:\practice\C#\Apr\HX.Toys\HX.Toys.Repository\obj\Debug\HX.Toys.Repository.pdb

@@ -1,0 +1,9 @@
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Service.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Service.pdb
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Model.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Repository.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Model.pdb
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\bin\Debug\TestAPI.Repository.pdb
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\obj\Debug\TestAPI.Service.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\obj\Debug\TestAPI.Service.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Service\obj\Debug\TestAPI.Service.pdb

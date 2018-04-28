@@ -1,0 +1,6 @@
+D:\practice\C#\Apr\HX.Toys\TestFunction\bin\Debug\TestFunction.exe.config
+D:\practice\C#\Apr\HX.Toys\TestFunction\bin\Debug\TestFunction.exe
+D:\practice\C#\Apr\HX.Toys\TestFunction\bin\Debug\TestFunction.pdb
+D:\practice\C#\Apr\HX.Toys\TestFunction\obj\Debug\TestFunction.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\HX.Toys\TestFunction\obj\Debug\TestFunction.exe
+D:\practice\C#\Apr\HX.Toys\TestFunction\obj\Debug\TestFunction.pdb

@@ -1,0 +1,4 @@
+D:\practice\C#\Apr\HX.Toys\TestAPI.Model\bin\Debug\TestAPI.Model.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Model\bin\Debug\TestAPI.Model.pdb
+D:\practice\C#\Apr\HX.Toys\TestAPI.Model\obj\Debug\TestAPI.Model.dll
+D:\practice\C#\Apr\HX.Toys\TestAPI.Model\obj\Debug\TestAPI.Model.pdb
